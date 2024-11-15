@@ -1,2 +1,2 @@
 # JavaScript
-This is The JavaScript learning repository
+This is my JavaScript learning repository
